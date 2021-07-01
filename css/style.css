@@ -99,7 +99,7 @@ header {
 .b_text{
 	float: left;
 	width: 37%;
-	padding: 70px 0;
+	padding: 5% 0;
 }
 
 
@@ -242,8 +242,8 @@ header {
 .box{
 	float: left;
     width: 28%;
-    margin: 15px 60px 15px 0;
-    padding: 0 0 5px 15px;
+    margin: 1% 6.3% 1% 0;
+    padding: 0 0 1% 1%;
     cursor: pointer;
 }
 
@@ -357,7 +357,6 @@ footer {
 }
 
 
-
 .social {
 	text-align: center;
 }
@@ -368,7 +367,7 @@ footer {
     width: 40px;
     text-align: center;
     text-decoration: none;
-    margin: 35px 15px;
+    margin: 5% 2%;
     border-radius: 10px;
     background-color: #fcdb00;
     color: #090909;
